@@ -445,11 +445,11 @@ color: #434455;
     letter-spacing: 0.02em;
     color: #ffffff;
 }
-.footer-subscribe-form-content {
+.footer-form {
     display: flex;
     gap: 24px;
 }
-.subscribe-field-contentsubscribe-field-content {
+.subscribe-field-content {
     width: 264px;
     height: 40px;
     border: 1px solid #ffffff;
