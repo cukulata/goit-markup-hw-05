@@ -548,6 +548,9 @@ color: #434455;
 .modal-window-form {
     margin-bottom: 8px;
 }
+.checkbox {
+    margin-right: 8px;
+}
 .modal-window-form-label {
     font-size: 12px;
     line-height: 1.17;
