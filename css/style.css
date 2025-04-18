@@ -551,6 +551,11 @@ color: #434455;
 .checkbox {
     margin-right: 8px;
 }
+.checkbox:checked .user-privacy-span {
+background-color: #404bbf;
+border: none;
+fill: #f4f4fd;
+}
 .modal-window-form-label {
     font-size: 12px;
     line-height: 1.17;
